@@ -1,11 +1,6 @@
-<img align="right" src="https://media.tenor.com/m/Z6b_o-L4i3wAAAAC/mushoku-tensei-sylphiette-greyrat.gif" width="180" />
+### Hey there!
 
-### Hey there! 👋
-
-I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand.
-
-<br clear="right" />
-
+I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand. <img src="https://media.tenor.com/m/Z6b_o-L4i3wAAAAC/mushoku-tensei-sylphiette-greyrat.gif" width="40" height="40" style="vertical-align: middle;" />
 =============================================================================================================================================
 
 <p align="left">
@@ -18,12 +13,12 @@ I build, configure, and troubleshoot whatever sparks my curiosity.
 
 If an idea or problem catches my attention, chances are I'll architect it, code it
 
-My main tech stack includes **C# / XAML**, **Android (Java)**, and **Laravel (PHP)**.  **Cisco Packet Tracer**, **network routing**, and **security configurations**.
+My main tech stack includes **C# / XAML**, **Android (Java)**, and **Laravel (PHP)**. **Cisco Packet Tracer**, **network routing**, and **security configurations**.
 
 I've worked on multiple hands-on systems—from mobile apps platforms and maintenance management tools.
 
 -------------------------------
 
 #### Interest:
-* 🎮  gaming, exploring game mechanics , Game Develop
-* ☕ **Hobbies:** Wirte Light Novel , Reading Manga , Gym 
+* 🎮 gaming, exploring game mechanics , Game Develop
+* ☕ **Hobbies:** Write Light Novel , Reading Manga , Gym
