@@ -3,8 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/a413ce85-b8f3-4f84-8e53-4237e6fbec84" width="250" style="vertical-align: middle;" />
 
-I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand.       <img width="498" height="498" alt="roxy-migurdia" src="https://github.com/user-attachments/assets/2f463dc8-6423-4cfd-a825-2cec2fc03757" width="100" style="vertical-align: middle;" />
-
+I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand.  
 =============================================================================================================================================
 
 <p align="left">
@@ -12,6 +11,8 @@ I'm [Thanat] or [Zenny] , a software developer & engineering student based in Th
 </p>
 
 -------------------------------
+
+<img src="https://github.com/user-attachments/assets/2f463dc8-6423-4cfd-a825-2cec2fc03757" width="100" style="vertical-align: middle;" />
 
 I build, configure, and troubleshoot whatever sparks my curiosity.
 
