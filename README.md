@@ -16,7 +16,7 @@ I'm **Thanat (Zenny)** , a software developer & engineering student based in Tha
 
 I build, configure, and troubleshoot whatever sparks my curiosity.
 
-If an idea or problem catches my attention, chances are I'll architect it, code it
+If an idea or problem catches my attention, chances are I'll architect it, code it, and make it work.
 
 My main tech stack includes **C# / XAML**, **Android (Java)**, and **Laravel (PHP)**. **Cisco Packet Tracer**, **network routing**, and **security configurations**.
 
