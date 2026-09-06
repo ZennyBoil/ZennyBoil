@@ -3,7 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/a413ce85-b8f3-4f84-8e53-4237e6fbec84" width="170" style="vertical-align: middle;" />
 
-I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand.  
+I'm **Thanat (Zenny)** , a software developer & engineering student based in Thailand.  
 =============================================================================================================================================
 
 <p align="left">
