@@ -11,15 +11,14 @@ I'm [Thanat] or [Zenny] , a software developer & engineering student based in Th
 
 I build, configure, and troubleshoot whatever sparks my curiosity.
 
-If an idea or problem catches my attention, chances are I'll architect it, code it, and ship it.
+If an idea or problem catches my attention, chances are I'll architect it, code it
 
-My main tech stack includes **.NET MAUI**, **C# / XAML**, **Android (Java)**, and **Laravel (PHP)**.  **Cisco Packet Tracer**, network routing, and security configurations.
+My main tech stack includes **C# / XAML**, **Android (Java)**, and **Laravel (PHP)**.  **Cisco Packet Tracer**, **network routing**, and **security configurations**.
 
 I've worked on multiple hands-on systems—from mobile apps platforms and maintenance management tools.
 
 -------------------------------
 
 #### Interest:
-* 🎮  gaming, exploring game mechanics, and experimenting with mods
-* 🛠️ Constantly debugging setups (both software logic and hardware power cables)
+* 🎮  gaming, exploring game mechanics , Game Develop
 * ☕ **Hobbies:** Wirte Light Novel , Reading Manga , Gym 
