@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand. <img src="https://media.tenor.com/m/Z6b_o-L4i3wAAAAC/mushoku-tensei-sylphiette-greyrat.gif" width="40" height="40" style="vertical-align: middle;" />
+I'm [Thanat] or [Zenny] , a software developer & engineering student based in Thailand. <img width="498" height="399" alt="mushoku-tensei-sylphiette-greyrat" src="https://github.com/user-attachments/assets/a413ce85-b8f3-4f84-8e53-4237e6fbec84" />
 
 =============================================================================================================================================
 
